@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Oscar Mena",
-	"description": "Esto es un curso en linea"
+	"description": "Esto es un curso en linea",
+	"keywords": [ "freecodecamp", "curso", "heroku", "web" ]
 }
