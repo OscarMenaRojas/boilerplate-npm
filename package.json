@@ -13,5 +13,6 @@
 	},
 	"author": "Oscar Mena",
 	"description": "Esto es un curso en linea",
-	"keywords": [ "freecodecamp", "curso", "heroku", "web" ]
+	"keywords": [ "freecodecamp", "curso", "heroku", "web" ],
+	"license": "MIT"
 }
