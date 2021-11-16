@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://git.heroku.com/boilerplate-oscar.git"
 	},
 	"version": "0.0.1",
 	"author": "Oscar Mena",
